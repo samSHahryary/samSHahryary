@@ -1,5 +1,5 @@
 <h1 align="center">𝓲𝓷 𝓽𝓱𝓮 𝓷𝓪𝓶𝓮 𝓸𝓯 𝓰𝓸𝓭 SAM007</h1>
-<h3 align="center"> im from 𝓫𝓻𝓪𝔃𝓲𝓵 </h3>
+<h3 align="center"> im from 𝓫𝓻𝓪𝔃𝓲𝓵 O_O </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samshahryary&label=Profile%20views&color=0e75b6&style=flat" alt="samshahryary" /> </p>
 
